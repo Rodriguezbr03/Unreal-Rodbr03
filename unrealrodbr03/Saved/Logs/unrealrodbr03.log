@@ -828,3 +828,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-08.29.48:097][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
 [2021.10.22-08.29.48:116][978]AssetCheck: New page: Asset Save: AIcube
 [2021.10.22-08.29.48:116][978]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/AIcube.AIcube
+[2021.10.22-08.30.18:484][455]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/AIcube.AIcube
+[2021.10.22-08.30.19:107][455]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 125 classes and 0 folders.
+[2021.10.22-08.31.16:260][394]LogRenderer: Reallocating scene render targets to support 1204x900 Format 10 NumSamples 1 (Frame:2862).
+[2021.10.22-08.31.19:204][744]LogSlate: Window 'AIcube' being destroyed
+[2021.10.22-08.31.55:265][994]LogSlate: Took 0.005971 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
