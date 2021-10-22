@@ -2199,3 +2199,588 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-11.32.05:622][578]LogFileHelpers: Saving map 'evilcubmap' took 0.050
 [2021.10.22-11.32.05:637][578]AssetCheck: New page: Asset Save: evilcubmap
 [2021.10.22-11.32.05:637][578]LogContentValidation: Display: Validating World /Game/evilcubmap.evilcubmap
+[2021.10.22-11.32.25:718][370]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-11.32.25:724][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-11.32.25:724][370]PIE: New page: PIE session: evilcubmap (22 okt. 2021 15:32:25)
+[2021.10.22-11.32.25:748][370]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_evilcubmap
+[2021.10.22-11.32.25:751][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003407s)
+[2021.10.22-11.32.25:752][370]LogAIModule: Creating AISystem for world evilcubmap
+[2021.10.22-11.32.25:752][370]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D902F5FC00), frame # 874370
+[2021.10.22-11.32.25:752][370]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D95A897740), frame # 874370
+[2021.10.22-11.32.25:752][370]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2021.10.22-11.32.25:752][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/evilcubmap.evilcubmap to /Game/UEDPIE_0_evilcubmap.evilcubmap (0.004755s)
+[2021.10.22-11.32.25:774][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.10.22-11.32.25:775][370]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-11.32.25:775][370]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-11.32.25:775][370]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-11.32.25:775][370]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-11.32.25:775][370]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-11.32.25:775][370]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-11.32.25:775][370]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-11.32.25:775][370]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-11.32.25:776][370]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-11.32.25:776][370]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-11.32.25:778][370]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-11.32.25:778][370]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-11.32.25:798][370]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.10.22-11.32.25:798][370]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-11.32.25:798][370]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-11.32.25:798][370]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-11.32.25:799][370]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-11.32.25:812][370]LogInit: FAudioDevice initialized.
+[2021.10.22-11.32.25:823][370]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.22-11.32.25:824][370]LogWorld: Bringing World /Game/UEDPIE_0_evilcubmap.evilcubmap up for play (max tick rate 0) at 2021.10.22-13.32.25
+[2021.10.22-11.32.25:824][370]LogWorld: Bringing up level for play took: 0.000557
+[2021.10.22-11.32.25:824][370]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.10.22-11.32.25:827][370]PIE: Server logged in
+[2021.10.22-11.32.25:828][370]PIE: Play in editor total start time 0,105 seconds.
+[2021.10.22-11.32.26:728][473]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.27:228][533]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.28:221][652]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.29:222][772]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.30:224][892]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.30:723][952]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.31:725][ 72]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.32:224][132]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.33:226][252]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.33:726][312]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.34:727][432]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.35:227][492]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.36:220][611]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.36:720][671]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.37:721][791]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.38:222][851]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.39:223][971]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.39:724][ 31]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.40:724][151]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.41:224][211]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.42:226][331]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.42:727][391]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.43:726][511]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.44:227][571]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.45:727][751]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.46:227][811]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.47:227][931]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.47:727][991]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.48:728][111]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.49:220][170]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.50:221][290]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.50:722][350]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.51:723][470]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.52:223][530]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.53:227][648]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.53:726][708]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.54:719][827]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.55:222][887]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.56:222][  7]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.56:723][ 67]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.57:724][187]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.58:225][247]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.59:226][367]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.32.59:726][427]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.00:727][547]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.01:228][607]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.02:220][726]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.02:722][786]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.03:722][906]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.04:223][966]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.05:224][ 86]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.05:725][146]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.06:726][266]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.07:226][326]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.08:227][446]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.08:727][506]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.09:720][625]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.10:220][685]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.11:222][805]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.11:722][865]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.12:723][985]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.13:225][ 45]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.14:227][165]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.14:727][225]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.16:221][404]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.16:720][464]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.17:721][584]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.18:221][644]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.19:222][764]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.19:723][824]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.20:727][933]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.21:222][987]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.22:225][ 95]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.22:725][148]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.23:728][252]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.24:228][301]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.25:221][398]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.25:723][447]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.26:727][546]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.27:228][597]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.28:230][697]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.28:728][745]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.29:730][843]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.30:223][892]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.31:229][992]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.31:727][ 40]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.32:725][159]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.33:225][219]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.34:222][338]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.34:722][398]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.35:721][517]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.36:220][577]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.37:224][697]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.37:725][757]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.38:725][876]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.39:228][936]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.40:722][115]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.33.40:799][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-11.33.40:799][119]LogWorld: BeginTearingDown for /Game/UEDPIE_0_evilcubmap
+[2021.10.22-11.33.40:800][119]LogWorld: UWorld::CleanupWorld for evilcubmap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-11.33.40:800][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.33.40:810][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-11.33.40:814][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.33.40:835][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-11.33.40:861][119]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D95A897740), frame # 883119
+[2021.10.22-11.33.40:861][119]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D902F5FC00), frame # 883119
+[2021.10.22-11.33.40:864][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.10.22-11.33.40:885][120]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.10.22-11.36.24:146][349]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.10.22-11.36.34:093][536]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.10.22-11.36.46:546][  9]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-11.36.46:553][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-11.36.46:553][  9]PIE: New page: PIE session: evilcubmap (22 okt. 2021 15:36:46)
+[2021.10.22-11.36.46:599][  9]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_evilcubmap
+[2021.10.22-11.36.46:602][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003513s)
+[2021.10.22-11.36.46:603][  9]LogAIModule: Creating AISystem for world evilcubmap
+[2021.10.22-11.36.46:604][  9]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D92E6B7A00), frame # 898009
+[2021.10.22-11.36.46:604][  9]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D8A738CCC0), frame # 898009
+[2021.10.22-11.36.46:604][  9]LogPlayLevel: PIE: World Init took: (0.001345s)
+[2021.10.22-11.36.46:604][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/evilcubmap.evilcubmap to /Game/UEDPIE_0_evilcubmap.evilcubmap (0.005068s)
+[2021.10.22-11.36.46:628][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.10.22-11.36.46:631][  9]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-11.36.46:631][  9]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-11.36.46:631][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-11.36.46:631][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-11.36.46:631][  9]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-11.36.46:631][  9]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-11.36.46:631][  9]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-11.36.46:631][  9]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-11.36.46:632][  9]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-11.36.46:632][  9]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-11.36.46:634][  9]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-11.36.46:634][  9]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-11.36.46:654][  9]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.10.22-11.36.46:654][  9]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-11.36.46:654][  9]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-11.36.46:654][  9]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-11.36.46:655][  9]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-11.36.46:670][  9]LogInit: FAudioDevice initialized.
+[2021.10.22-11.36.46:678][  9]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.22-11.36.46:679][  9]LogWorld: Bringing World /Game/UEDPIE_0_evilcubmap.evilcubmap up for play (max tick rate 0) at 2021.10.22-13.36.46
+[2021.10.22-11.36.46:679][  9]LogWorld: Bringing up level for play took: 0.000669
+[2021.10.22-11.36.46:679][  9]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.10.22-11.36.46:683][  9]PIE: Server logged in
+[2021.10.22-11.36.46:684][  9]PIE: Play in editor total start time 0,132 seconds.
+[2021.10.22-11.36.47:548][109]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.36.48:048][169]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.36.49:051][289]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.36.49:552][349]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.36.50:554][469]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.36.51:055][529]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.36.52:050][648]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.36.52:551][708]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.36.53:554][828]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.36.54:052][887]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.36.55:554][ 67]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.36.56:054][127]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.36.58:049][366]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.36.58:549][426]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.36.59:550][546]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.00:072][606]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.01:049][723]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.01:548][783]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.02:552][903]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.03:054][963]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.04:055][ 83]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.05:548][260]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.06:050][320]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.07:052][440]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.07:552][500]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.08:549][619]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.09:049][679]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.10:052][799]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.10:552][859]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.11:556][979]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.12:049][ 38]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.13:552][218]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.14:052][278]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.15:054][398]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.15:554][458]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.16:049][517]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.16:549][577]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.17:051][637]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.17:551][697]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.18:051][757]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.37.18:231][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-11.37.18:231][773]LogWorld: BeginTearingDown for /Game/UEDPIE_0_evilcubmap
+[2021.10.22-11.37.18:231][773]LogWorld: UWorld::CleanupWorld for evilcubmap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-11.37.18:232][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.37.18:239][773]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-11.37.18:242][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.37.18:280][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-11.37.18:281][773]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D8A738CCC0), frame # 901773
+[2021.10.22-11.37.18:281][773]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D92E6B7A00), frame # 901773
+[2021.10.22-11.37.18:283][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.10.22-11.37.18:305][774]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.10.22-11.40.24:378][ 65]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-11.40.24:385][ 65]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-11.40.24:385][ 65]PIE: New page: PIE session: evilcubmap (22 okt. 2021 15:40:24)
+[2021.10.22-11.40.24:409][ 65]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_evilcubmap
+[2021.10.22-11.40.24:413][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003726s)
+[2021.10.22-11.40.24:415][ 65]LogAIModule: Creating AISystem for world evilcubmap
+[2021.10.22-11.40.24:415][ 65]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D88E228C00), frame # 924065
+[2021.10.22-11.40.24:415][ 65]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D962A9F4C0), frame # 924065
+[2021.10.22-11.40.24:415][ 65]LogPlayLevel: PIE: World Init took: (0.001385s)
+[2021.10.22-11.40.24:415][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/evilcubmap.evilcubmap to /Game/UEDPIE_0_evilcubmap.evilcubmap (0.005334s)
+[2021.10.22-11.40.24:436][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.10.22-11.40.24:439][ 65]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-11.40.24:439][ 65]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-11.40.24:439][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-11.40.24:439][ 65]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-11.40.24:439][ 65]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-11.40.24:439][ 65]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-11.40.24:439][ 65]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-11.40.24:439][ 65]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-11.40.24:439][ 65]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-11.40.24:439][ 65]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-11.40.24:442][ 65]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-11.40.24:442][ 65]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-11.40.24:461][ 65]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.10.22-11.40.24:461][ 65]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-11.40.24:461][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-11.40.24:461][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-11.40.24:462][ 65]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-11.40.24:477][ 65]LogInit: FAudioDevice initialized.
+[2021.10.22-11.40.24:486][ 65]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.22-11.40.24:486][ 65]LogWorld: Bringing World /Game/UEDPIE_0_evilcubmap.evilcubmap up for play (max tick rate 0) at 2021.10.22-13.40.24
+[2021.10.22-11.40.24:487][ 65]LogWorld: Bringing up level for play took: 0.000615
+[2021.10.22-11.40.24:487][ 65]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2021.10.22-11.40.24:491][ 65]PIE: Server logged in
+[2021.10.22-11.40.24:492][ 65]PIE: Play in editor total start time 0,106 seconds.
+[2021.10.22-11.40.25:380][170]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.40.25:880][230]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.40.26:881][350]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.40.27:381][410]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.40.28:383][530]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.40.28:883][590]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.40.29:884][710]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.40.30:383][770]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.40.31:886][950]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.40.32:387][ 10]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.40.34:387][250]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.40.34:841][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-11.40.34:841][300]LogWorld: BeginTearingDown for /Game/UEDPIE_0_evilcubmap
+[2021.10.22-11.40.34:841][300]LogWorld: UWorld::CleanupWorld for evilcubmap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-11.40.34:842][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.40.34:851][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-11.40.34:855][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.40.34:876][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-11.40.34:894][300]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D962A9F4C0), frame # 925300
+[2021.10.22-11.40.34:894][300]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D88E228C00), frame # 925300
+[2021.10.22-11.40.34:896][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.10.22-11.40.34:916][301]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2021.10.22-11.40.50:688][131]BlueprintLog: New page: Compile evilcubmap
+[2021.10.22-11.40.50:719][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.10.22-11.40.57:063][868]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-11.40.57:069][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-11.40.57:070][868]PIE: New page: PIE session: evilcubmap (22 okt. 2021 15:40:57)
+[2021.10.22-11.40.57:070][868]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_evilcubmap
+[2021.10.22-11.40.57:073][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002937s)
+[2021.10.22-11.40.57:074][868]LogAIModule: Creating AISystem for world evilcubmap
+[2021.10.22-11.40.57:074][868]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D8858FFA00), frame # 927868
+[2021.10.22-11.40.57:074][868]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D8A73D7EC0), frame # 927868
+[2021.10.22-11.40.57:074][868]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2021.10.22-11.40.57:074][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/evilcubmap.evilcubmap to /Game/UEDPIE_0_evilcubmap.evilcubmap (0.004273s)
+[2021.10.22-11.40.57:096][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.10.22-11.40.57:097][868]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-11.40.57:097][868]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-11.40.57:097][868]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-11.40.57:097][868]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-11.40.57:097][868]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-11.40.57:097][868]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-11.40.57:097][868]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-11.40.57:097][868]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-11.40.57:098][868]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-11.40.57:098][868]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-11.40.57:101][868]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-11.40.57:101][868]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-11.40.57:120][868]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.10.22-11.40.57:122][868]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-11.40.57:122][868]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-11.40.57:122][868]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-11.40.57:123][868]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-11.40.57:137][868]LogInit: FAudioDevice initialized.
+[2021.10.22-11.40.57:146][868]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.22-11.40.57:147][868]LogWorld: Bringing World /Game/UEDPIE_0_evilcubmap.evilcubmap up for play (max tick rate 0) at 2021.10.22-13.40.57
+[2021.10.22-11.40.57:147][868]LogWorld: Bringing up level for play took: 0.000697
+[2021.10.22-11.40.57:147][868]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2021.10.22-11.40.57:151][868]PIE: Server logged in
+[2021.10.22-11.40.57:152][868]PIE: Play in editor total start time 0,083 seconds.
+[2021.10.22-11.41.11:661][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-11.41.11:661][602]LogWorld: BeginTearingDown for /Game/UEDPIE_0_evilcubmap
+[2021.10.22-11.41.11:661][602]LogWorld: UWorld::CleanupWorld for evilcubmap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-11.41.11:661][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.41.11:668][602]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-11.41.11:671][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.41.11:709][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-11.41.11:710][602]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D8A73D7EC0), frame # 929602
+[2021.10.22-11.41.11:710][602]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D8858FFA00), frame # 929602
+[2021.10.22-11.41.11:713][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.10.22-11.41.11:732][603]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2021.10.22-11.41.17:515][286]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-11.41.17:522][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-11.41.17:522][286]PIE: New page: PIE session: evilcubmap (22 okt. 2021 15:41:17)
+[2021.10.22-11.41.17:550][286]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_evilcubmap
+[2021.10.22-11.41.17:555][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004889s)
+[2021.10.22-11.41.17:556][286]LogAIModule: Creating AISystem for world evilcubmap
+[2021.10.22-11.41.17:556][286]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D97FC17600), frame # 930286
+[2021.10.22-11.41.17:556][286]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D8A738E340), frame # 930286
+[2021.10.22-11.41.17:557][286]LogPlayLevel: PIE: World Init took: (0.001722s)
+[2021.10.22-11.41.17:557][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/evilcubmap.evilcubmap to /Game/UEDPIE_0_evilcubmap.evilcubmap (0.006875s)
+[2021.10.22-11.41.17:579][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.10.22-11.41.17:580][286]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-11.41.17:580][286]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-11.41.17:580][286]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-11.41.17:580][286]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-11.41.17:580][286]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-11.41.17:581][286]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-11.41.17:581][286]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-11.41.17:581][286]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-11.41.17:581][286]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-11.41.17:581][286]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-11.41.17:583][286]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-11.41.17:583][286]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-11.41.17:601][286]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.10.22-11.41.17:601][286]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-11.41.17:601][286]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-11.41.17:601][286]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-11.41.17:602][286]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-11.41.17:617][286]LogInit: FAudioDevice initialized.
+[2021.10.22-11.41.17:627][286]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.22-11.41.17:628][286]LogWorld: Bringing World /Game/UEDPIE_0_evilcubmap.evilcubmap up for play (max tick rate 0) at 2021.10.22-13.41.17
+[2021.10.22-11.41.17:629][286]LogWorld: Bringing up level for play took: 0.000548
+[2021.10.22-11.41.17:629][286]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.10.22-11.41.17:632][286]PIE: Server logged in
+[2021.10.22-11.41.17:633][286]PIE: Play in editor total start time 0,112 seconds.
+[2021.10.22-11.41.33:109][139]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1136.575 Y=221.213 Z=176.966] for [FirstPersonProjectile_C]
+[2021.10.22-11.41.35:241][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-11.41.35:241][389]LogWorld: BeginTearingDown for /Game/UEDPIE_0_evilcubmap
+[2021.10.22-11.41.35:241][389]LogWorld: UWorld::CleanupWorld for evilcubmap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-11.41.35:242][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.41.35:254][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-11.41.35:257][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.41.35:276][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-11.41.35:294][389]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D8A738E340), frame # 932389
+[2021.10.22-11.41.35:294][389]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D97FC17600), frame # 932389
+[2021.10.22-11.41.35:296][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.10.22-11.41.35:317][390]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.10.22-11.41.42:333][185]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-11.41.42:339][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-11.41.42:340][185]PIE: New page: PIE session: evilcubmap (22 okt. 2021 15:41:42)
+[2021.10.22-11.41.42:340][185]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_evilcubmap
+[2021.10.22-11.41.42:343][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002770s)
+[2021.10.22-11.41.42:344][185]LogAIModule: Creating AISystem for world evilcubmap
+[2021.10.22-11.41.42:344][185]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D95AB00C00), frame # 933185
+[2021.10.22-11.41.42:344][185]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D8A738F380), frame # 933185
+[2021.10.22-11.41.42:344][185]LogPlayLevel: PIE: World Init took: (0.001248s)
+[2021.10.22-11.41.42:344][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/evilcubmap.evilcubmap to /Game/UEDPIE_0_evilcubmap.evilcubmap (0.004220s)
+[2021.10.22-11.41.42:364][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.10.22-11.41.42:366][185]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-11.41.42:366][185]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-11.41.42:366][185]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-11.41.42:366][185]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-11.41.42:366][185]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-11.41.42:366][185]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-11.41.42:366][185]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-11.41.42:366][185]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-11.41.42:367][185]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-11.41.42:367][185]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-11.41.42:369][185]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-11.41.42:369][185]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-11.41.42:387][185]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.10.22-11.41.42:387][185]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-11.41.42:387][185]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-11.41.42:387][185]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-11.41.42:388][185]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-11.41.42:403][185]LogInit: FAudioDevice initialized.
+[2021.10.22-11.41.42:413][185]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.22-11.41.42:414][185]LogWorld: Bringing World /Game/UEDPIE_0_evilcubmap.evilcubmap up for play (max tick rate 0) at 2021.10.22-13.41.42
+[2021.10.22-11.41.42:414][185]LogWorld: Bringing up level for play took: 0.000561
+[2021.10.22-11.41.42:414][185]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2021.10.22-11.41.42:418][185]PIE: Server logged in
+[2021.10.22-11.41.42:419][185]PIE: Play in editor total start time 0,08 seconds.
+[2021.10.22-11.42.06:340][ 48]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.42.06:431][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-11.42.06:431][ 53]LogWorld: BeginTearingDown for /Game/UEDPIE_0_evilcubmap
+[2021.10.22-11.42.06:432][ 53]LogWorld: UWorld::CleanupWorld for evilcubmap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-11.42.06:432][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.42.06:444][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-11.42.06:448][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.42.06:469][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-11.42.06:492][ 53]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D8A738F380), frame # 936053
+[2021.10.22-11.42.06:492][ 53]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D95AB00C00), frame # 936053
+[2021.10.22-11.42.06:495][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.10.22-11.42.06:519][ 54]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2021.10.22-11.42.11:316][620]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-11.42.11:323][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-11.42.11:323][620]PIE: New page: PIE session: evilcubmap (22 okt. 2021 15:42:11)
+[2021.10.22-11.42.11:350][620]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_evilcubmap
+[2021.10.22-11.42.11:354][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003689s)
+[2021.10.22-11.42.11:355][620]LogAIModule: Creating AISystem for world evilcubmap
+[2021.10.22-11.42.11:355][620]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D93C1C0A00), frame # 936620
+[2021.10.22-11.42.11:355][620]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D94D2382C0), frame # 936620
+[2021.10.22-11.42.11:356][620]LogPlayLevel: PIE: World Init took: (0.001500s)
+[2021.10.22-11.42.11:356][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/evilcubmap.evilcubmap to /Game/UEDPIE_0_evilcubmap.evilcubmap (0.005436s)
+[2021.10.22-11.42.11:377][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.10.22-11.42.11:379][620]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-11.42.11:379][620]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-11.42.11:379][620]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-11.42.11:379][620]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-11.42.11:379][620]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-11.42.11:379][620]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-11.42.11:379][620]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-11.42.11:379][620]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-11.42.11:379][620]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-11.42.11:379][620]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-11.42.11:382][620]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-11.42.11:382][620]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-11.42.11:399][620]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.10.22-11.42.11:400][620]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-11.42.11:400][620]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-11.42.11:400][620]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-11.42.11:400][620]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-11.42.11:415][620]LogInit: FAudioDevice initialized.
+[2021.10.22-11.42.11:424][620]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.22-11.42.11:425][620]LogWorld: Bringing World /Game/UEDPIE_0_evilcubmap.evilcubmap up for play (max tick rate 0) at 2021.10.22-13.42.11
+[2021.10.22-11.42.11:425][620]LogWorld: Bringing up level for play took: 0.000574
+[2021.10.22-11.42.11:425][620]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2021.10.22-11.42.11:429][620]PIE: Server logged in
+[2021.10.22-11.42.11:429][620]PIE: Play in editor total start time 0,107 seconds.
+[2021.10.22-11.42.23:720][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-11.42.23:721][ 89]LogWorld: BeginTearingDown for /Game/UEDPIE_0_evilcubmap
+[2021.10.22-11.42.23:721][ 89]LogWorld: UWorld::CleanupWorld for evilcubmap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-11.42.23:721][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.42.23:733][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-11.42.23:736][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.42.23:757][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-11.42.23:775][ 89]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D94D2382C0), frame # 938089
+[2021.10.22-11.42.23:775][ 89]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D93C1C0A00), frame # 938089
+[2021.10.22-11.42.23:777][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.10.22-11.42.23:804][ 90]Cmd: EDCALLBACK SURFPROPS
+[2021.10.22-11.42.23:805][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2021.10.22-11.42.38:584][796]BlueprintLog: New page: Compile evilcubmap
+[2021.10.22-11.42.38:615][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.10.22-11.42.42:455][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.10.22-11.42.42:474][250]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/evilcubmapE3EF306F41AC7859628DAFAE8B43942F.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Content/evilcubmap.umap'
+[2021.10.22-11.42.42:485][250]LogFileHelpers: Saving map 'evilcubmap' took 0.052
+[2021.10.22-11.42.42:497][250]AssetCheck: New page: Asset Save: evilcubmap
+[2021.10.22-11.42.42:497][250]LogContentValidation: Display: Validating World /Game/evilcubmap.evilcubmap
+[2021.10.22-11.42.46:627][716]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-11.42.46:634][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-11.42.46:634][716]PIE: New page: PIE session: evilcubmap (22 okt. 2021 15:42:46)
+[2021.10.22-11.42.46:660][716]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_evilcubmap
+[2021.10.22-11.42.46:664][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003799s)
+[2021.10.22-11.42.46:665][716]LogAIModule: Creating AISystem for world evilcubmap
+[2021.10.22-11.42.46:665][716]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D97029D200), frame # 940716
+[2021.10.22-11.42.46:665][716]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D8A7243D80), frame # 940716
+[2021.10.22-11.42.46:666][716]LogPlayLevel: PIE: World Init took: (0.001607s)
+[2021.10.22-11.42.46:666][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/evilcubmap.evilcubmap to /Game/UEDPIE_0_evilcubmap.evilcubmap (0.005650s)
+[2021.10.22-11.42.46:686][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.10.22-11.42.46:688][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-11.42.46:688][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-11.42.46:688][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-11.42.46:688][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-11.42.46:688][716]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-11.42.46:688][716]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-11.42.46:688][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-11.42.46:688][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-11.42.46:688][716]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-11.42.46:689][716]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-11.42.46:691][716]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-11.42.46:691][716]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-11.42.46:710][716]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.10.22-11.42.46:710][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-11.42.46:710][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-11.42.46:710][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-11.42.46:711][716]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-11.42.46:732][716]LogInit: FAudioDevice initialized.
+[2021.10.22-11.42.46:741][716]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.22-11.42.46:742][716]LogWorld: Bringing World /Game/UEDPIE_0_evilcubmap.evilcubmap up for play (max tick rate 0) at 2021.10.22-13.42.46
+[2021.10.22-11.42.46:742][716]LogWorld: Bringing up level for play took: 0.000582
+[2021.10.22-11.42.46:743][716]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2021.10.22-11.42.46:747][716]PIE: Server logged in
+[2021.10.22-11.42.46:748][716]PIE: Play in editor total start time 0,115 seconds.
+[2021.10.22-11.43.10:861][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-11.43.10:861][600]LogWorld: BeginTearingDown for /Game/UEDPIE_0_evilcubmap
+[2021.10.22-11.43.10:861][600]LogWorld: UWorld::CleanupWorld for evilcubmap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-11.43.10:862][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.43.10:868][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-11.43.10:871][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.43.10:893][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-11.43.10:911][600]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D8A7243D80), frame # 943600
+[2021.10.22-11.43.10:911][600]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D97029D200), frame # 943600
+[2021.10.22-11.43.10:913][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.10.22-11.43.10:933][601]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2021.10.22-11.45.14:403][313]BlueprintLog: New page: Compile pawncube
+[2021.10.22-11.45.14:447][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.10.22-11.45.15:918][467]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/pawncubeBAF25E194BB0D2F8B1B6798B73F57A80.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Content/Blueprint/pawncube.uasset'
+[2021.10.22-11.45.15:933][467]AssetCheck: New page: Asset Save: pawncube
+[2021.10.22-11.45.15:933][467]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/pawncube.pawncube
+[2021.10.22-11.45.19:658][895]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-11.45.19:665][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-11.45.19:665][895]PIE: New page: PIE session: evilcubmap (22 okt. 2021 15:45:19)
+[2021.10.22-11.45.19:711][895]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_evilcubmap
+[2021.10.22-11.45.19:716][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004285s)
+[2021.10.22-11.45.19:717][895]LogAIModule: Creating AISystem for world evilcubmap
+[2021.10.22-11.45.19:717][895]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D97D5FFA00), frame # 953895
+[2021.10.22-11.45.19:717][895]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D8A398A340), frame # 953895
+[2021.10.22-11.45.19:717][895]LogPlayLevel: PIE: World Init took: (0.001430s)
+[2021.10.22-11.45.19:717][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/evilcubmap.evilcubmap to /Game/UEDPIE_0_evilcubmap.evilcubmap (0.005933s)
+[2021.10.22-11.45.19:739][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.10.22-11.45.19:741][895]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-11.45.19:741][895]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-11.45.19:741][895]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-11.45.19:741][895]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-11.45.19:741][895]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-11.45.19:741][895]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-11.45.19:741][895]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-11.45.19:741][895]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-11.45.19:741][895]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-11.45.19:742][895]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-11.45.19:745][895]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-11.45.19:745][895]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-11.45.19:765][895]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.10.22-11.45.19:765][895]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-11.45.19:765][895]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-11.45.19:765][895]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-11.45.19:766][895]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-11.45.19:782][895]LogInit: FAudioDevice initialized.
+[2021.10.22-11.45.19:790][895]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.22-11.45.19:791][895]LogWorld: Bringing World /Game/UEDPIE_0_evilcubmap.evilcubmap up for play (max tick rate 0) at 2021.10.22-13.45.19
+[2021.10.22-11.45.19:791][895]LogWorld: Bringing up level for play took: 0.000580
+[2021.10.22-11.45.19:791][895]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2021.10.22-11.45.19:795][895]PIE: Server logged in
+[2021.10.22-11.45.19:796][895]PIE: Play in editor total start time 0,132 seconds.
+[2021.10.22-11.45.47:662][234]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.45.51:164][654]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.45.54:664][ 74]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.45.58:165][494]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-130.000 Y=620.000 Z=238.000] for [pawncube_C]
+[2021.10.22-11.45.58:442][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-11.45.58:442][524]LogWorld: BeginTearingDown for /Game/UEDPIE_0_evilcubmap
+[2021.10.22-11.45.58:442][524]LogWorld: UWorld::CleanupWorld for evilcubmap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-11.45.58:443][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.45.58:455][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-11.45.58:458][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.45.58:497][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-11.45.58:498][524]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D8A398A340), frame # 958524
+[2021.10.22-11.45.58:498][524]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D97D5FFA00), frame # 958524
+[2021.10.22-11.45.58:500][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.10.22-11.45.58:520][525]LogPlayLevel: Display: Destroying online subsystem :Context_48
