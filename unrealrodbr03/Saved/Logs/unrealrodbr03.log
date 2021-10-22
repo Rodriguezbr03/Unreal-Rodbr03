@@ -712,3 +712,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-07.38.24:117][600]AssetCheck: New page: Asset Save: evilcubmap
 [2021.10.22-07.38.24:117][600]LogContentValidation: Display: Validating World /Game/evilcubmap.evilcubmap
 [2021.10.22-07.39.23:370][230]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.10.22-07.44.04:184][450]LogSlate: Took 0.007825 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.22-07.44.18:296][945]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
