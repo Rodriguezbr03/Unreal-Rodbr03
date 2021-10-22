@@ -683,3 +683,31 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-07.34.11:864][342]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
 [2021.10.22-07.34.11:864][342]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
 [2021.10.22-07.34.16:992][949]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2021.10.22-07.35.32:077][993]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2021.10.22-07.35.32:077][993]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/ version
+[2021.10.22-07.36.28:147][124]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2021.10.22-07.36.28:147][124]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/ version
+[2021.10.22-07.36.28:147][124]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2021.10.22-07.36.44:223][969]SourceControl: Source control is disabled
+[2021.10.22-07.36.44:223][969]LogSlate: Window 'Source Control Login' being destroyed
+[2021.10.22-07.37.34:283][472]LogSlate: Window 'New Level' being destroyed
+[2021.10.22-07.37.34:287][472]LightingResults: New page: Lighting Build
+[2021.10.22-07.37.34:290][472]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-07.37.34:290][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-07.37.34:290][472]MapCheck: New page: Map Check
+[2021.10.22-07.37.34:290][472]LightingResults: New page: Lighting Build
+[2021.10.22-07.37.34:299][472]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D8E3065000), frame # 10472
+[2021.10.22-07.37.34:299][472]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D8E302BB00), frame # 10472
+[2021.10.22-07.37.34:301][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.10.22-07.37.34:304][472]LogAIModule: Creating AISystem for world Untitled
+[2021.10.22-07.37.34:304][472]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D8E2FF0C00), frame # 10472
+[2021.10.22-07.37.34:305][472]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D8F079C2C0), frame # 10472
+[2021.10.22-07.37.34:361][472]LoadErrors: New page: New Map
+[2021.10.22-07.37.54:932][762]LogEditorViewport: Clicking Background
+[2021.10.22-07.38.24:043][600]LogSlate: Window 'Save Level As' being destroyed
+[2021.10.22-07.38.24:055][600]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.22-07.38.24:084][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.10.22-07.38.24:095][600]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/evilcubmap49260D8F45D75CE1D8DB9C8F4C12B011.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Content/evilcubmap.umap'
+[2021.10.22-07.38.24:114][600]LogFileHelpers: Saving map 'evilcubmap' took 0.065
+[2021.10.22-07.38.24:117][600]AssetCheck: New page: Asset Save: evilcubmap
+[2021.10.22-07.38.24:117][600]LogContentValidation: Display: Validating World /Game/evilcubmap.evilcubmap
