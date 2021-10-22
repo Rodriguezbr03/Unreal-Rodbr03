@@ -1509,3 +1509,158 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-09.44.27:948][889]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/pawncube2B33BB2445C407550EF6B7A277C1CB5B.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Content/Blueprint/pawncube.uasset'
 [2021.10.22-09.44.27:963][889]AssetCheck: New page: Asset Save: pawncube
 [2021.10.22-09.44.27:963][889]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/pawncube.pawncube
+[2021.10.22-09.44.56:492][555]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-09.44.56:499][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-09.44.56:499][555]PIE: New page: PIE session: evilcubmap (22 okt. 2021 13:44:56)
+[2021.10.22-09.44.56:520][555]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_evilcubmap
+[2021.10.22-09.44.56:523][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002952s)
+[2021.10.22-09.44.56:524][555]LogAIModule: Creating AISystem for world evilcubmap
+[2021.10.22-09.44.56:524][555]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D9133CAC00), frame # 376555
+[2021.10.22-09.44.56:524][555]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D95C825BC0), frame # 376555
+[2021.10.22-09.44.56:524][555]LogPlayLevel: PIE: World Init took: (0.001300s)
+[2021.10.22-09.44.56:524][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/evilcubmap.evilcubmap to /Game/UEDPIE_0_evilcubmap.evilcubmap (0.004455s)
+[2021.10.22-09.44.56:545][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.10.22-09.44.56:548][555]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-09.44.56:548][555]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-09.44.56:548][555]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-09.44.56:548][555]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-09.44.56:548][555]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-09.44.56:548][555]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-09.44.56:548][555]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-09.44.56:548][555]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-09.44.56:548][555]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-09.44.56:548][555]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-09.44.56:551][555]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-09.44.56:551][555]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-09.44.56:571][555]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.10.22-09.44.56:571][555]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-09.44.56:571][555]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-09.44.56:571][555]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-09.44.56:572][555]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-09.44.56:587][555]LogInit: FAudioDevice initialized.
+[2021.10.22-09.44.56:598][555]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.22-09.44.56:599][555]LogWorld: Bringing World /Game/UEDPIE_0_evilcubmap.evilcubmap up for play (max tick rate 0) at 2021.10.22-11.44.56
+[2021.10.22-09.44.56:599][555]LogWorld: Bringing up level for play took: 0.000766
+[2021.10.22-09.44.56:599][555]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.10.22-09.44.56:603][555]PIE: Server logged in
+[2021.10.22-09.44.56:604][555]PIE: Play in editor total start time 0,106 seconds.
+[2021.10.22-09.45.09:150][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-09.45.09:150][ 53]LogWorld: BeginTearingDown for /Game/UEDPIE_0_evilcubmap
+[2021.10.22-09.45.09:150][ 53]LogWorld: UWorld::CleanupWorld for evilcubmap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-09.45.09:150][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-09.45.09:163][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-09.45.09:168][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-09.45.09:203][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-09.45.09:203][ 53]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D95C825BC0), frame # 378053
+[2021.10.22-09.45.09:203][ 53]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D9133CAC00), frame # 378053
+[2021.10.22-09.45.09:205][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.10.22-09.45.09:225][ 54]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.10.22-09.45.32:121][322]BlueprintLog: New page: Compile pawncube
+[2021.10.22-09.45.32:123][322]LogBlueprint: Error: [Compiler pawncube] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2021.10.22-09.45.32:162][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.10.22-09.45.33:993][529]BlueprintLog: New page: Compile pawncube
+[2021.10.22-09.45.33:994][529]LogBlueprint: Error: [Compiler pawncube] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2021.10.22-09.45.34:023][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.10.22-09.45.37:745][964]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.10.22-10.28.42:564][408]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.10.22-10.28.42:604][409]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2021.10.22-10.28.42:604][409]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2021.10.22-10.28.42:604][409]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.10.22-10.28.42:604][409]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.10.22-10.28.42:613][409]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2021.10.22-10.28.42:668][411]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2021.10.22-10.28.42:703][412]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2021.10.22-10.28.45:737][609]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FirstPerson/FPWeapon/Materials/M_FPGun.M_FPGun
+[2021.10.22-10.28.45:742][609]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.10.22-10.28.45:926][609]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 102
+[2021.10.22-10.28.45:928][609]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.10.22-10.28.45:981][609]LogMaterial: Display: Missing cached shader map for material M_FPGun, compiling. 
+[2021.10.22-10.28.46:042][609]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2021.10.22-10.28.46:050][609]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2021.10.22-10.28.46:056][609]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2021.10.22-10.28.46:735][641]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 182
+[2021.10.22-10.28.46:841][646]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 181
+[2021.10.22-10.28.47:201][672]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 180
+[2021.10.22-10.28.47:392][684]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 179
+[2021.10.22-10.28.47:634][701]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 178
+[2021.10.22-10.28.47:634][701]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 177
+[2021.10.22-10.28.47:717][708]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 176
+[2021.10.22-10.28.47:902][722]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 175
+[2021.10.22-10.28.47:990][729]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 174
+[2021.10.22-10.28.48:088][737]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 173
+[2021.10.22-10.28.48:265][750]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 172
+[2021.10.22-10.28.48:513][769]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 171
+[2021.10.22-10.28.48:584][774]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 170
+[2021.10.22-10.28.48:585][774]LogSlate: Window 'M_FPGun' being destroyed
+[2021.10.22-10.28.48:596][774]LogSlate: Window 'M_FPGun' being destroyed
+[2021.10.22-10.28.48:668][774]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-10.28.48:668][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-10.28.48:758][777]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 157
+[2021.10.22-10.28.49:067][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 156
+[2021.10.22-10.28.49:309][836]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 155
+[2021.10.22-10.28.49:469][854]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 154
+[2021.10.22-10.28.49:568][865]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 153
+[2021.10.22-10.28.49:757][885]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 152
+[2021.10.22-10.28.49:939][905]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 151
+[2021.10.22-10.28.49:973][909]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 150
+[2021.10.22-10.28.50:284][944]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 149
+[2021.10.22-10.28.50:364][953]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 148
+[2021.10.22-10.28.50:450][963]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 147
+[2021.10.22-10.28.50:478][966]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 146
+[2021.10.22-10.28.50:719][993]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 145
+[2021.10.22-10.28.51:052][ 31]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 144
+[2021.10.22-10.28.51:150][ 42]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 143
+[2021.10.22-10.28.51:176][ 45]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 142
+[2021.10.22-10.28.51:277][ 54]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 141
+[2021.10.22-10.28.51:454][ 64]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 140
+[2021.10.22-10.28.51:608][ 66]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 139
+[2021.10.22-10.28.51:797][ 68]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 138
+[2021.10.22-10.28.51:898][ 69]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 137
+[2021.10.22-10.28.52:146][ 73]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 136
+[2021.10.22-10.28.52:189][ 75]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 135
+[2021.10.22-10.28.52:189][ 75]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 134
+[2021.10.22-10.28.52:497][ 90]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 133
+[2021.10.22-10.28.52:601][ 96]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 132
+[2021.10.22-10.28.52:673][101]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 131
+[2021.10.22-10.28.52:713][104]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 130
+[2021.10.22-10.28.52:969][120]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 129
+[2021.10.22-10.28.53:030][124]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 128
+[2021.10.22-10.28.53:217][136]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 127
+[2021.10.22-10.28.53:319][141]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 126
+[2021.10.22-10.28.53:362][144]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 125
+[2021.10.22-10.28.53:504][154]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 124
+[2021.10.22-10.28.53:534][156]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 123
+[2021.10.22-10.28.53:608][161]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 122
+[2021.10.22-10.28.53:829][176]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 121
+[2021.10.22-10.28.53:893][180]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 120
+[2021.10.22-10.28.53:908][181]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 119
+[2021.10.22-10.28.54:163][199]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 118
+[2021.10.22-10.28.54:249][205]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 117
+[2021.10.22-10.28.54:441][218]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 116
+[2021.10.22-10.28.54:488][221]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 115
+[2021.10.22-10.28.54:587][228]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 114
+[2021.10.22-10.28.54:814][243]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 113
+[2021.10.22-10.28.54:843][245]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 112
+[2021.10.22-10.28.54:869][247]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 111
+[2021.10.22-10.28.54:939][252]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 110
+[2021.10.22-10.28.55:043][259]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 109
+[2021.10.22-10.28.55:163][267]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 108
+[2021.10.22-10.28.55:163][267]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 107
+[2021.10.22-10.28.55:369][281]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 106
+[2021.10.22-10.28.55:487][289]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 105
+[2021.10.22-10.28.55:501][290]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 104
+[2021.10.22-10.28.55:915][317]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 103
+[2021.10.22-10.28.55:958][320]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 102
+[2021.10.22-10.28.56:134][332]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 101
+[2021.10.22-10.28.56:149][333]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 100
+[2021.10.22-10.28.56:203][337]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 99
+[2021.10.22-10.28.56:230][339]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 98
+[2021.10.22-10.28.56:511][357]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 97
+[2021.10.22-10.28.56:586][362]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 96
+[2021.10.22-10.28.56:678][368]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 95
+[2021.10.22-10.28.56:832][378]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 94
+[2021.10.22-10.28.56:960][387]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 93
+[2021.10.22-10.28.57:262][408]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 92
+[2021.10.22-10.28.57:294][410]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 82
+[2021.10.22-10.28.57:419][419]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 72
+[2021.10.22-10.28.57:462][422]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 62
