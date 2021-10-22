@@ -2192,3 +2192,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-11.29.57:269][489]LogFileHelpers: Saving map 'evilcubmap' took 0.050
 [2021.10.22-11.29.57:279][489]AssetCheck: New page: Asset Save: evilcubmap
 [2021.10.22-11.29.57:280][489]LogContentValidation: Display: Validating World /Game/evilcubmap.evilcubmap
+[2021.10.22-11.32.04:826][498]BlueprintLog: New page: Compile evilcubmap
+[2021.10.22-11.32.04:859][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.10.22-11.32.05:594][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.10.22-11.32.05:611][578]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/evilcubmap85E241EA4CC57907C280BC9F2F23FA76.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Content/evilcubmap.umap'
+[2021.10.22-11.32.05:622][578]LogFileHelpers: Saving map 'evilcubmap' took 0.050
+[2021.10.22-11.32.05:637][578]AssetCheck: New page: Asset Save: evilcubmap
+[2021.10.22-11.32.05:637][578]LogContentValidation: Display: Validating World /Game/evilcubmap.evilcubmap
