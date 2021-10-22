@@ -1867,3 +1867,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-11.05.11:135][181]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/pawncubeDEDE8E9B49A3EFB847BD6B934C6DCA02.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Content/Blueprint/pawncube.uasset'
 [2021.10.22-11.05.11:149][181]AssetCheck: New page: Asset Save: pawncube
 [2021.10.22-11.05.11:149][181]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/pawncube.pawncube
+[2021.10.22-11.13.33:183][573]BlueprintLog: New page: Compile pawncube
+[2021.10.22-11.13.33:184][573]LogBlueprint: Error: [Compiler pawncube] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2021.10.22-11.13.33:214][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.10.22-11.13.37:345][ 33]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.10.22-11.14.51:896][792]BlueprintLog: New page: Compile pawncube
+[2021.10.22-11.14.51:928][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.10.22-11.14.57:296][383]BlueprintLog: New page: Compile pawncube
+[2021.10.22-11.14.57:330][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.10.22-11.15.04:180][157]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/pawncube27F5CACE40D17CD9463372830C6257DD.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Content/Blueprint/pawncube.uasset'
+[2021.10.22-11.15.04:191][157]AssetCheck: New page: Asset Save: pawncube
+[2021.10.22-11.15.04:191][157]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/pawncube.pawncube
