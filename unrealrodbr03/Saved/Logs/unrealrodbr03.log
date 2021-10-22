@@ -1277,3 +1277,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-09.07.05:197][641]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/pawncube4FE82262496D8E761C3629AEEA09167D.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Content/Blueprint/pawncube.uasset'
 [2021.10.22-09.07.05:211][641]AssetCheck: New page: Asset Save: pawncube
 [2021.10.22-09.07.05:211][641]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/pawncube.pawncube
+[2021.10.22-09.11.11:366][ 75]BlueprintLog: New page: Compile AIcube
+[2021.10.22-09.11.11:399][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.10.22-09.11.12:499][199]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/AIcubeC9AFD16F43921E506466AEBADA277F74.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Content/Blueprint/AIcube.uasset'
+[2021.10.22-09.11.12:512][199]AssetCheck: New page: Asset Save: AIcube
+[2021.10.22-09.11.12:512][199]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/AIcube.AIcube
