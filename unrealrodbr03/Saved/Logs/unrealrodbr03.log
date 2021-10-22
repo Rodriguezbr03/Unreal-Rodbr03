@@ -1048,3 +1048,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-08.45.05:960][772]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
 [2021.10.22-08.45.06:466][803]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
 [2021.10.22-08.45.06:498][805]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.10.22-08.46.36:703][545]BlueprintLog: New page: Compile pawncube
+[2021.10.22-08.46.36:738][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.10.22-08.46.38:288][698]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/pawncubeC50BF04F4183D1ED166B69B62A102EC9.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Content/Blueprint/pawncube.uasset'
+[2021.10.22-08.46.38:305][698]AssetCheck: New page: Asset Save: pawncube
+[2021.10.22-08.46.38:305][698]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/pawncube.pawncube
