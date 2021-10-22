@@ -1675,3 +1675,195 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-10.29.08:443][ 59]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
 [2021.10.22-10.29.08:609][ 71]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
 [2021.10.22-10.29.08:872][ 97]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.10.22-10.29.45:927][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.10.22-10.29.45:943][ 46]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/evilcubmap_Auto66838427B422F51BB722F91866C560DE6.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/Autosaves/Game/evilcubmap_Auto6.umap'
+[2021.10.22-10.29.45:945][ 46]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/evilcubmap' took 0.040
+[2021.10.22-10.29.45:945][ 46]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.040
+[2021.10.22-10.29.45:946][ 46]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/pawncube] ([1] browsable assets)...
+[2021.10.22-10.29.45:961][ 46]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/pawncube.pawncube]
+[2021.10.22-10.29.45:961][ 46]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/pawncube]
+[2021.10.22-10.29.45:978][ 46]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/pawncube_Auto6DD3BA59E49EB115E4FFB23B1F3056E82.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/Autosaves/Game/Blueprint/pawncube_Auto6.uasset'
+[2021.10.22-10.29.45:979][ 46]LogFileHelpers: Auto-saving content packages took 0.034
+[2021.10.22-10.45.43:099][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.10.22-10.45.43:102][485]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/evilcubmap' took 0.024
+[2021.10.22-10.45.43:103][485]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/pawncube] ([1] browsable assets)...
+[2021.10.22-10.45.43:129][485]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/pawncube.pawncube]
+[2021.10.22-10.45.43:129][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/pawncube]
+[2021.10.22-10.45.43:148][485]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/pawncube_Auto726AF93874F5FF1777DF372BDFFC46A46.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/Autosaves/Game/Blueprint/pawncube_Auto7.uasset'
+[2021.10.22-10.45.43:149][485]LogFileHelpers: Auto-saving content packages took 0.047
+[2021.10.22-11.02.02:398][ 35]LogSlate: Window 'New Level' being destroyed
+[2021.10.22-11.02.09:538][ 35]LogSlate: Window 'Save Content' being destroyed
+[2021.10.22-11.02.09:544][ 35]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.22-11.02.09:571][ 35]LightingResults: New page: Lighting Build
+[2021.10.22-11.02.09:572][ 35]LoadErrors: New page: Loading map: Template_Default.umap
+[2021.10.22-11.02.09:619][ 35]LogWorld: UWorld::CleanupWorld for evilcubmap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-11.02.09:619][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.02.09:619][ 35]MapCheck: New page: Map Check
+[2021.10.22-11.02.09:619][ 35]LightingResults: New page: Lighting Build
+[2021.10.22-11.02.09:642][ 35]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D8F079C2C0), frame # 763035
+[2021.10.22-11.02.09:642][ 35]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D8E2FF0C00), frame # 763035
+[2021.10.22-11.02.09:645][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.10.22-11.02.09:678][ 35]LogAIModule: Creating AISystem for world Untitled_2
+[2021.10.22-11.02.09:678][ 35]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D92EBAA000), frame # 763035
+[2021.10.22-11.02.09:678][ 35]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D882F2C7C0), frame # 763035
+[2021.10.22-11.02.09:772][ 35]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.22-11.02.09:792][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.10.22-11.02.09:799][ 35]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.22-11.02.09:799][ 35]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,235ms to complete.
+[2021.10.22-11.02.09:800][ 35]LogFileHelpers: Loading map 'Template_Default' took 0.256
+[2021.10.22-11.03.04:811][307]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2021.10.22-11.03.04:835][308]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2021.10.22-11.03.04:835][308]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2021.10.22-11.03.04:835][308]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.10.22-11.03.04:835][308]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.10.22-11.03.04:866][308]LogMaterial: Display: Missing cached shader map for material Material_5, compiling. 
+[2021.10.22-11.03.04:941][309]LogMaterial: Display: Missing cached shader map for material Material_6, compiling. 
+[2021.10.22-11.03.04:991][310]LogMaterial: Display: Missing cached shader map for material Material_7, compiling. 
+[2021.10.22-11.03.08:161][547]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 102
+[2021.10.22-11.03.08:919][619]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 92
+[2021.10.22-11.03.09:128][641]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 82
+[2021.10.22-11.03.09:567][684]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 72
+[2021.10.22-11.03.12:077][917]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2021.10.22-11.03.13:494][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 52
+[2021.10.22-11.03.13:800][100]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2021.10.22-11.03.14:015][123]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2021.10.22-11.03.16:781][373]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.10.22-11.03.17:338][423]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.10.22-11.03.18:242][480]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.10.22-11.03.18:491][495]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.10.22-11.03.19:602][601]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.10.22-11.03.19:747][617]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.10.22-11.03.20:009][645]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.10.22-11.03.20:205][665]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.10.22-11.03.22:970][980]LogAssetEditorSubsystem: Opening Asset editor for World /Game/evilcubmap.evilcubmap
+[2021.10.22-11.03.22:989][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.10.22-11.03.26:766][980]LogSlate: Window 'Save Content' being destroyed
+[2021.10.22-11.03.26:783][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2021.10.22-11.03.26:795][980]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/BasicShapeMaterial53F1913842E1C054C19940A18EFDBC7B.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2021.10.22-11.03.26:814][980]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/pawncube6D62460E4A9336CEBD920892FAE9AC3B.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Content/Blueprint/pawncube.uasset'
+[2021.10.22-11.03.26:817][980]Cmd: MAP LOAD FILE="../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Content/evilcubmap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.22-11.03.26:817][980]LightingResults: New page: Lighting Build
+[2021.10.22-11.03.26:817][980]LoadErrors: New page: Loading map: evilcubmap.umap
+[2021.10.22-11.03.26:817][980]LogWorld: UWorld::CleanupWorld for Untitled_2, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-11.03.26:817][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.03.26:818][980]MapCheck: New page: Map Check
+[2021.10.22-11.03.26:818][980]LightingResults: New page: Lighting Build
+[2021.10.22-11.03.26:838][980]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D882F2C7C0), frame # 770980
+[2021.10.22-11.03.26:838][980]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D92EBAA000), frame # 770980
+[2021.10.22-11.03.26:840][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.10.22-11.03.26:946][980]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.22-11.03.26:946][980]LogAIModule: Creating AISystem for world evilcubmap
+[2021.10.22-11.03.26:946][980]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D88DDAD200), frame # 770980
+[2021.10.22-11.03.26:947][980]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D97D3F3600), frame # 770980
+[2021.10.22-11.03.26:970][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.10.22-11.03.26:981][980]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.22-11.03.27:003][980]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 21,795ms to complete.
+[2021.10.22-11.03.27:003][980]LogFileHelpers: Loading map 'evilcubmap' took 0.187
+[2021.10.22-11.03.27:032][980]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.22-11.03.27:032][980]LogContentValidation: Display: Validating Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2021.10.22-11.03.27:032][980]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/pawncube.pawncube
+[2021.10.22-11.03.38:077][264]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-11.03.38:084][264]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.22-11.03.38:085][264]LogPlayLevel: [PlayLevel] Compiling pawncube before play...
+[2021.10.22-11.03.38:129][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.10.22-11.03.38:131][264]LogPlayLevel: PlayLevel: Blueprint regeneration took 46 ms (1 blueprints)
+[2021.10.22-11.03.38:131][264]PIE: New page: PIE session: evilcubmap (22 okt. 2021 15:03:38)
+[2021.10.22-11.03.38:169][264]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_evilcubmap
+[2021.10.22-11.03.38:172][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003008s)
+[2021.10.22-11.03.38:173][264]LogAIModule: Creating AISystem for world evilcubmap
+[2021.10.22-11.03.38:173][264]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D90241EA00), frame # 772264
+[2021.10.22-11.03.38:173][264]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D912B5B100), frame # 772264
+[2021.10.22-11.03.38:173][264]LogPlayLevel: PIE: World Init took: (0.001431s)
+[2021.10.22-11.03.38:174][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/evilcubmap.evilcubmap to /Game/UEDPIE_0_evilcubmap.evilcubmap (0.004760s)
+[2021.10.22-11.03.38:194][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.10.22-11.03.38:195][264]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-11.03.38:195][264]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-11.03.38:195][264]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-11.03.38:195][264]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-11.03.38:195][264]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-11.03.38:195][264]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-11.03.38:195][264]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-11.03.38:195][264]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-11.03.38:196][264]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-11.03.38:196][264]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-11.03.38:199][264]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-11.03.38:199][264]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-11.03.38:219][264]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.10.22-11.03.38:220][264]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-11.03.38:220][264]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-11.03.38:220][264]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-11.03.38:221][264]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-11.03.38:238][264]LogInit: FAudioDevice initialized.
+[2021.10.22-11.03.38:254][264]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.22-11.03.38:255][264]LogWorld: Bringing World /Game/UEDPIE_0_evilcubmap.evilcubmap up for play (max tick rate 0) at 2021.10.22-13.03.38
+[2021.10.22-11.03.38:256][264]LogWorld: Bringing up level for play took: 0.000939
+[2021.10.22-11.03.38:256][264]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.10.22-11.03.38:260][264]PIE: Server logged in
+[2021.10.22-11.03.38:261][264]PIE: Play in editor total start time 0,177 seconds.
+[2021.10.22-11.03.58:990][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-11.03.58:990][743]LogWorld: BeginTearingDown for /Game/UEDPIE_0_evilcubmap
+[2021.10.22-11.03.58:990][743]LogWorld: UWorld::CleanupWorld for evilcubmap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-11.03.58:991][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.03.59:000][743]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-11.03.59:003][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.03.59:021][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-11.03.59:040][743]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D912B5B100), frame # 774743
+[2021.10.22-11.03.59:040][743]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D90241EA00), frame # 774743
+[2021.10.22-11.03.59:041][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.10.22-11.03.59:062][744]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.10.22-11.04.01:654][ 50]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-11.04.01:661][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-11.04.01:661][ 50]PIE: New page: PIE session: evilcubmap (22 okt. 2021 15:04:01)
+[2021.10.22-11.04.01:661][ 50]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_evilcubmap
+[2021.10.22-11.04.01:663][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002512s)
+[2021.10.22-11.04.01:664][ 50]LogAIModule: Creating AISystem for world evilcubmap
+[2021.10.22-11.04.01:664][ 50]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D95C074200), frame # 775050
+[2021.10.22-11.04.01:664][ 50]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D97D3F0CC0), frame # 775050
+[2021.10.22-11.04.01:665][ 50]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2021.10.22-11.04.01:665][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/evilcubmap.evilcubmap to /Game/UEDPIE_0_evilcubmap.evilcubmap (0.003753s)
+[2021.10.22-11.04.01:683][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.10.22-11.04.01:685][ 50]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-11.04.01:685][ 50]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-11.04.01:685][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-11.04.01:685][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-11.04.01:685][ 50]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-11.04.01:685][ 50]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-11.04.01:685][ 50]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-11.04.01:685][ 50]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-11.04.01:685][ 50]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-11.04.01:685][ 50]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-11.04.01:688][ 50]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-11.04.01:688][ 50]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-11.04.01:706][ 50]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.10.22-11.04.01:706][ 50]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-11.04.01:706][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-11.04.01:706][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-11.04.01:708][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-11.04.01:721][ 50]LogInit: FAudioDevice initialized.
+[2021.10.22-11.04.01:731][ 50]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.22-11.04.01:732][ 50]LogWorld: Bringing World /Game/UEDPIE_0_evilcubmap.evilcubmap up for play (max tick rate 0) at 2021.10.22-13.04.01
+[2021.10.22-11.04.01:732][ 50]LogWorld: Bringing up level for play took: 0.000694
+[2021.10.22-11.04.01:733][ 50]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.10.22-11.04.01:736][ 50]PIE: Server logged in
+[2021.10.22-11.04.01:737][ 50]PIE: Play in editor total start time 0,078 seconds.
+[2021.10.22-11.04.08:470][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-11.04.08:470][851]LogWorld: BeginTearingDown for /Game/UEDPIE_0_evilcubmap
+[2021.10.22-11.04.08:471][851]LogWorld: UWorld::CleanupWorld for evilcubmap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-11.04.08:471][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.04.08:479][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-11.04.08:482][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-11.04.08:500][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-11.04.08:519][851]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D97D3F0CC0), frame # 775851
+[2021.10.22-11.04.08:519][851]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D95C074200), frame # 775851
+[2021.10.22-11.04.08:521][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.10.22-11.04.08:541][852]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.10.22-11.04.24:207][702]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.10.22-11.04.58:557][733]BlueprintLog: New page: Compile pawncube
+[2021.10.22-11.04.58:560][733]LogBlueprint: Error: [Compiler pawncube] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2021.10.22-11.04.58:560][733]LogBlueprint: Error: [Compiler pawncube] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2021.10.22-11.04.58:589][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.10.22-11.05.10:532][125]BlueprintLog: New page: Compile pawncube
+[2021.10.22-11.05.10:563][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.10.22-11.05.11:135][181]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/pawncubeDEDE8E9B49A3EFB847BD6B934C6DCA02.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Content/Blueprint/pawncube.uasset'
+[2021.10.22-11.05.11:149][181]AssetCheck: New page: Asset Save: pawncube
+[2021.10.22-11.05.11:149][181]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/pawncube.pawncube
