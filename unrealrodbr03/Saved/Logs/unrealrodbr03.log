@@ -711,3 +711,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-07.38.24:114][600]LogFileHelpers: Saving map 'evilcubmap' took 0.065
 [2021.10.22-07.38.24:117][600]AssetCheck: New page: Asset Save: evilcubmap
 [2021.10.22-07.38.24:117][600]LogContentValidation: Display: Validating World /Game/evilcubmap.evilcubmap
+[2021.10.22-07.39.23:370][230]Cmd: BRUSH ADD SELECTNEWBRUSH
