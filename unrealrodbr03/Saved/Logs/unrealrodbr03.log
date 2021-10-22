@@ -815,3 +815,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-07.51.43:778][ 74]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/evilcubmap_Auto11140EA434C5AA1823FF9A982E04E33E4.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/Autosaves/Game/evilcubmap_Auto1.umap'
 [2021.10.22-07.51.43:779][ 74]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/evilcubmap' took 0.022
 [2021.10.22-07.51.43:779][ 74]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.022
+[2021.10.22-08.29.27:994][576]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.10.22-08.29.47:912][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.10.22-08.29.47:914][978]LogMetaData: Removing '/Game/Blueprint/AIcube.AIcube:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprint/NewBlueprint.PackageMetaData'
+[2021.10.22-08.29.47:914][978]LogMetaData: Removing '/Game/Blueprint/AIcube.SKEL_AIcube_C' ref from Metadata '/Game/Blueprint/NewBlueprint.PackageMetaData'
+[2021.10.22-08.29.47:914][978]LogMetaData: Removing '/Game/Blueprint/AIcube.AIcube_C' ref from Metadata '/Game/Blueprint/NewBlueprint.PackageMetaData'
+[2021.10.22-08.29.47:914][978]LogMetaData: Removing '/Game/Blueprint/AIcube.AIcube:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprint/NewBlueprint.PackageMetaData'
+[2021.10.22-08.29.47:914][978]LogMetaData: Removing '/Game/Blueprint/AIcube.AIcube:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprint/NewBlueprint.PackageMetaData'
+[2021.10.22-08.29.47:959][978]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/AIcube51D20A0944D7CCB25623FBB03F6CA6E4.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Content/Blueprint/AIcube.uasset'
+[2021.10.22-08.29.48:073][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.10.22-08.29.48:089][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.10.22-08.29.48:097][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.10.22-08.29.48:116][978]AssetCheck: New page: Asset Save: AIcube
+[2021.10.22-08.29.48:116][978]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/AIcube.AIcube
