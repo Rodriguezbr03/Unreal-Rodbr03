@@ -1066,3 +1066,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-08.55.59:959][163]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/pawncubeAB2CB4F945CD9A26457F7D95EFEC597F.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Content/Blueprint/pawncube.uasset'
 [2021.10.22-08.55.59:972][163]AssetCheck: New page: Asset Save: pawncube
 [2021.10.22-08.55.59:972][163]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/pawncube.pawncube
+[2021.10.22-08.56.45:582][888]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-08.56.45:582][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-08.56.49:548][347]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.10.22-08.56.49:548][347]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-08.56.49:548][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
