@@ -668,3 +668,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-07.33.02:974][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2021.10.22-07.33.14:216][909]LogAssetRegistry: Asset discovery search completed in 16.2040 seconds
 [2021.10.22-07.33.14:220][909]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.10.22-07.34.11:863][342]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.10.22-07.34.11:863][342]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.10.22-07.34.11:863][342]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.10.22-07.34.11:863][342]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.10.22-07.34.11:863][342]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.10.22-07.34.11:863][342]LogWindows: Warning: URL: C:\Users\Rodrique\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.10.22-07.34.11:863][342]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.10.22-07.34.11:864][342]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.10.22-07.34.11:864][342]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.10.22-07.34.11:864][342]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.10.22-07.34.11:864][342]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.10.22-07.34.11:864][342]LogWindows: Warning: URL: C:\Users\Rodrique\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.10.22-07.34.11:864][342]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.10.22-07.34.11:864][342]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.10.22-07.34.16:992][949]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
