@@ -1010,3 +1010,41 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-08.44.08:839][554]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
 [2021.10.22-08.44.08:839][554]MaterialEditorStats: Base pass vertex shader: 40 instructions
 [2021.10.22-08.44.08:839][554]MaterialEditorStats: Texture samplers: 2/16
+[2021.10.22-08.44.53:210][239]LogSlate: Window 'Message' being destroyed
+[2021.10.22-08.44.53:215][239]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+(Selecting 'No' will cause all changes to be lost!)
+[2021.10.22-08.44.56:132][239]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2021.10.22-08.44.56:162][239]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.10.22-08.44.56:163][239]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.10.22-08.44.56:163][239]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.10.22-08.44.56:163][239]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.10.22-08.44.56:194][239]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2021.10.22-08.44.56:323][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.10.22-08.44.56:331][239]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.10.22-08.44.56:897][239]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 77
+[2021.10.22-08.44.56:897][239]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 76
+[2021.10.22-08.44.57:458][239]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 75
+[2021.10.22-08.44.57:458][239]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 74
+[2021.10.22-08.44.57:458][239]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 73
+[2021.10.22-08.44.57:458][239]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 72
+[2021.10.22-08.44.58:019][239]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 71
+[2021.10.22-08.44.58:019][239]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 70
+[2021.10.22-08.44.58:019][239]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 69
+[2021.10.22-08.44.58:019][239]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 68
+[2021.10.22-08.44.58:019][239]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 58
+[2021.10.22-08.44.58:019][239]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2021.10.22-08.44.58:042][239]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2021.10.22-08.44.58:046][239]TextureStreamingBuild: Display: Compiling optional shaders took 1.721 seconds.
+[2021.10.22-08.44.58:073][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.10.22-08.44.58:144][239]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-08.44.58:145][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-08.45.02:743][570]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2021.10.22-08.45.03:162][597]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2021.10.22-08.45.03:253][603]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.10.22-08.45.03:307][607]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.10.22-08.45.04:822][700]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.10.22-08.45.05:818][763]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.10.22-08.45.05:960][772]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.10.22-08.45.06:466][803]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.10.22-08.45.06:498][805]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
