@@ -811,3 +811,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-07.51.18:132][180]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D90D497E00), frame # 65180
 [2021.10.22-07.51.18:133][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
 [2021.10.22-07.51.18:149][181]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.10.22-07.51.43:765][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.10.22-07.51.43:778][ 74]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/evilcubmap_Auto11140EA434C5AA1823FF9A982E04E33E4.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/Autosaves/Game/evilcubmap_Auto1.umap'
+[2021.10.22-07.51.43:779][ 74]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/evilcubmap' took 0.022
+[2021.10.22-07.51.43:779][ 74]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.022
