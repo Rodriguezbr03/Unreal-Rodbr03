@@ -1053,3 +1053,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-08.46.38:288][698]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/pawncubeC50BF04F4183D1ED166B69B62A102EC9.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Content/Blueprint/pawncube.uasset'
 [2021.10.22-08.46.38:305][698]AssetCheck: New page: Asset Save: pawncube
 [2021.10.22-08.46.38:305][698]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/pawncube.pawncube
+[2021.10.22-08.51.22:647][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.10.22-08.51.22:648][ 30]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/evilcubmap' took 0.022
+[2021.10.22-08.51.22:649][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/BasicShapes/BasicShapeMaterial] ([1] browsable assets)...
+[2021.10.22-08.51.22:681][ 30]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial]
+[2021.10.22-08.51.22:681][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/BasicShapeMaterial]
+[2021.10.22-08.51.22:690][ 30]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/BasicShapeMaterial_Auto353813B4D4A25463FC8C0EBB8120903C4.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/Autosaves/Engine/BasicShapes/BasicShapeMaterial_Auto3.uasset'
+[2021.10.22-08.51.22:691][ 30]LogFileHelpers: Auto-saving content packages took 0.043
+[2021.10.22-08.55.13:063][182]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.10.22-08.55.58:812][ 65]BlueprintLog: New page: Compile pawncube
+[2021.10.22-08.55.58:848][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.10.22-08.55.59:959][163]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/pawncubeAB2CB4F945CD9A26457F7D95EFEC597F.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Content/Blueprint/pawncube.uasset'
+[2021.10.22-08.55.59:972][163]AssetCheck: New page: Asset Save: pawncube
+[2021.10.22-08.55.59:972][163]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/pawncube.pawncube
