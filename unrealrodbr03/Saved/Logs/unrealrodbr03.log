@@ -714,3 +714,100 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-07.39.23:370][230]Cmd: BRUSH ADD SELECTNEWBRUSH
 [2021.10.22-07.44.04:184][450]LogSlate: Took 0.007825 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2021.10.22-07.44.18:296][945]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.10.22-07.46.10:307][288]LogEditorViewport: Clicking Background
+[2021.10.22-07.46.12:098][496]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2021.10.22-07.50.29:446][427]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-07.50.29:455][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-07.50.29:455][427]PIE: New page: PIE session: evilcubmap (22 okt. 2021 11:50:29)
+[2021.10.22-07.50.29:457][427]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.10.22-07.50.29:459][427]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.10.22-07.50.29:460][427]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_evilcubmap
+[2021.10.22-07.50.29:462][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002306s)
+[2021.10.22-07.50.29:463][427]LogAIModule: Creating AISystem for world evilcubmap
+[2021.10.22-07.50.29:463][427]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D8FB569800), frame # 59427
+[2021.10.22-07.50.29:464][427]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D900ED3D80), frame # 59427
+[2021.10.22-07.50.29:464][427]LogPlayLevel: PIE: World Init took: (0.001211s)
+[2021.10.22-07.50.29:464][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/evilcubmap.evilcubmap to /Game/UEDPIE_0_evilcubmap.evilcubmap (0.003734s)
+[2021.10.22-07.50.29:472][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.10.22-07.50.29:475][427]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-07.50.29:475][427]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-07.50.29:475][427]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-07.50.29:475][427]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-07.50.29:475][427]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-07.50.29:475][427]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-07.50.29:475][427]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-07.50.29:475][427]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-07.50.29:476][427]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-07.50.29:476][427]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-07.50.29:478][427]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-07.50.29:478][427]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-07.50.29:498][427]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.10.22-07.50.29:498][427]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-07.50.29:498][427]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-07.50.29:498][427]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-07.50.29:499][427]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-07.50.29:513][427]LogInit: FAudioDevice initialized.
+[2021.10.22-07.50.29:521][427]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.22-07.50.29:526][427]LogWorld: Bringing World /Game/UEDPIE_0_evilcubmap.evilcubmap up for play (max tick rate 0) at 2021.10.22-09.50.29
+[2021.10.22-07.50.29:527][427]LogWorld: Bringing up level for play took: 0.001052
+[2021.10.22-07.50.29:527][427]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.10.22-07.50.29:539][427]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.10.22-07.50.29:546][427]PIE: Server logged in
+[2021.10.22-07.50.29:547][427]PIE: Play in editor total start time 0,095 seconds.
+[2021.10.22-07.50.38:770][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-07.50.38:770][497]LogWorld: BeginTearingDown for /Game/UEDPIE_0_evilcubmap
+[2021.10.22-07.50.38:771][497]LogWorld: UWorld::CleanupWorld for evilcubmap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-07.50.38:771][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-07.50.38:779][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-07.50.38:781][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-07.50.38:806][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-07.50.38:807][497]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D900ED3D80), frame # 60497
+[2021.10.22-07.50.38:807][497]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D8FB569800), frame # 60497
+[2021.10.22-07.50.38:808][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.10.22-07.50.38:840][500]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.10.22-07.50.53:468][243]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.22-07.50.53:473][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.22-07.50.53:474][243]PIE: New page: PIE session: evilcubmap (22 okt. 2021 11:50:53)
+[2021.10.22-07.50.53:474][243]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_evilcubmap
+[2021.10.22-07.50.53:476][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002390s)
+[2021.10.22-07.50.53:477][243]LogAIModule: Creating AISystem for world evilcubmap
+[2021.10.22-07.50.53:477][243]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D90D497E00), frame # 62243
+[2021.10.22-07.50.53:477][243]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D900960B80), frame # 62243
+[2021.10.22-07.50.53:478][243]LogPlayLevel: PIE: World Init took: (0.001578s)
+[2021.10.22-07.50.53:478][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/evilcubmap.evilcubmap to /Game/UEDPIE_0_evilcubmap.evilcubmap (0.004147s)
+[2021.10.22-07.50.53:486][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.10.22-07.50.53:488][243]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.22-07.50.53:488][243]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.22-07.50.53:488][243]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.22-07.50.53:488][243]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.22-07.50.53:488][243]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.22-07.50.53:488][243]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.22-07.50.53:488][243]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.22-07.50.53:488][243]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.22-07.50.53:488][243]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.22-07.50.53:489][243]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.22-07.50.53:492][243]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.22-07.50.53:492][243]LogAudioMixer: Display: 1: FrontRight
+[2021.10.22-07.50.53:511][243]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.10.22-07.50.53:511][243]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.22-07.50.53:511][243]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.22-07.50.53:511][243]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.22-07.50.53:512][243]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.22-07.50.53:533][243]LogInit: FAudioDevice initialized.
+[2021.10.22-07.50.53:545][243]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.22-07.50.53:546][243]LogWorld: Bringing World /Game/UEDPIE_0_evilcubmap.evilcubmap up for play (max tick rate 0) at 2021.10.22-09.50.53
+[2021.10.22-07.50.53:546][243]LogWorld: Bringing up level for play took: 0.000508
+[2021.10.22-07.50.53:546][243]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.10.22-07.50.53:550][243]PIE: Server logged in
+[2021.10.22-07.50.53:551][243]PIE: Play in editor total start time 0,078 seconds.
+[2021.10.22-07.51.18:090][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-07.51.18:090][180]LogWorld: BeginTearingDown for /Game/UEDPIE_0_evilcubmap
+[2021.10.22-07.51.18:090][180]LogWorld: UWorld::CleanupWorld for evilcubmap, bSessionEnded=true, bCleanupResources=true
+[2021.10.22-07.51.18:091][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-07.51.18:102][180]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.22-07.51.18:104][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.22-07.51.18:115][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.22-07.51.18:132][180]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D900960B80), frame # 65180
+[2021.10.22-07.51.18:132][180]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D90D497E00), frame # 65180
+[2021.10.22-07.51.18:133][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.10.22-07.51.18:149][181]LogPlayLevel: Display: Destroying online subsystem :Context_2
