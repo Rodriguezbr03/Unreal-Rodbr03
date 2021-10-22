@@ -833,3 +833,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-08.31.16:260][394]LogRenderer: Reallocating scene render targets to support 1204x900 Format 10 NumSamples 1 (Frame:2862).
 [2021.10.22-08.31.19:204][744]LogSlate: Window 'AIcube' being destroyed
 [2021.10.22-08.31.55:265][994]LogSlate: Took 0.005971 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.22-08.39.45:372][ 11]BlueprintLog: New page: Compile AIcube
+[2021.10.22-08.39.45:406][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2021.10.22-08.39.49:814][521]LogSavePackage: Moving '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Saved/AIcube19FD48214095564A4BF271BB40442653.tmp' to '../../../../../../Users/Rodrique/OneDrive - Gävle kommun/Skrivbordet/Unreal folder Rod/Unreal-Rodbr03/unrealrodbr03/Content/Blueprint/AIcube.uasset'
+[2021.10.22-08.39.49:831][521]AssetCheck: New page: Asset Save: AIcube
+[2021.10.22-08.39.49:831][521]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/AIcube.AIcube
