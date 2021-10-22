@@ -1664,3 +1664,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.22-10.28.57:294][410]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 82
 [2021.10.22-10.28.57:419][419]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 72
 [2021.10.22-10.28.57:462][422]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 62
+[2021.10.22-10.29.01:897][674]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 52
+[2021.10.22-10.29.02:054][684]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2021.10.22-10.29.02:591][716]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2021.10.22-10.29.02:833][727]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2021.10.22-10.29.06:503][934]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.10.22-10.29.07:145][966]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.10.22-10.29.07:196][969]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.10.22-10.29.07:275][974]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.10.22-10.29.08:443][ 59]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.10.22-10.29.08:609][ 71]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.10.22-10.29.08:872][ 97]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
